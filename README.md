@@ -1,4 +1,4 @@
-# player-point
+# manhunt-compass
 Minecraft datapack. Compass points on a specific player.
 
 manhunt-compass - Inspired by Dream’s manhunts
